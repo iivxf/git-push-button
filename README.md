@@ -23,9 +23,9 @@
 2. `commit faf614a012c06dd4ef6f9c7c4625fb0eb4661ebb`
     - Изменено README
 3. `commit 3298c231e60896862812e8844ac8046a834482d9`
-    - Изменен packaje.json
+    - Изменен package.json
 4. `commit 77d98a2368eb0c7a5baf4c0a2367f1ba043c21a0`
-    - Изменен packaje.json (ещё раз)
+    - Изменен package.json (ещё раз)
 
 ---
 
