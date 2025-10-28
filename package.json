@@ -1,7 +1,8 @@
 {
   "name": "gitpush-button",
   "displayName": "GitPush Button",
-  "description": "",
+  "publisher": "iivxf",
+  "description": "push a button - get git push",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.105.0"
